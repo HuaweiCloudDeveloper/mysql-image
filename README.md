@@ -37,7 +37,7 @@
   - Plug-in storage engines: Such as InnoDB (supports transactions), MyISAM (fast reading speed), etc., which can be flexibly selected according to business needs.
 
 
-The open-source image product [**Mysql Database**]() provided by this project has pre-installed Mysql and its related running environment, and provides deployment templates. Follow the user guide to easily start an efficient "out-of-the-box" experience.
+The open-source image product [**Mysql Database**](https://marketplace.huaweicloud.com/intl/hidden/contents/70259ece-77c8-4bda-8fbb-2c746fdd24b0) provided by this project has pre-installed Mysql and its related running environment, and provides deployment templates. Follow the user guide to easily start an efficient "out-of-the-box" experience.
 
 > **System requirements are as follows:**
 > - CPU: 2GHz or higher
